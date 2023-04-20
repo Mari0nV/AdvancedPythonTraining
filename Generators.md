@@ -56,6 +56,6 @@ Comparer ces deux snippets de code en terme de temps d'éxecution. Lequel est le
 
 Comparer la list comprehension et la generator expression en terme d'espace mémoire. Laquelle occupe le moins de mémoire ?
 
-### Question 4
+### Question 3
 
 Dans quels cas vaut-il mieux utiliser une liste comprehension qu'une generator expression ?
